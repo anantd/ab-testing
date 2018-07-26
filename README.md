@@ -11,9 +11,9 @@ Good background info about the overall goals and advantages of successful A/B te
 *Controlled experiments on the web*, Kohavi et al  
 This paper outlines the key concepts in online experimentation. Includes examples, key definitions and formulas, as well as pros and cons of different approaches.
 
-*A/B Testing at Stack Overflow*, Julia Silge, Stack Overlflow:
+*A/B Testing at Stack Overflow*, Julia Silge, Stack Overlflow:  
 https://stackoverflow.blog/2017/10/17/power-calculations-p-values-ab-testing-stack-overflow/  
-https://juliasilge.shinyapps.io/power-app/  
+Shiny app: https://juliasilge.shinyapps.io/power-app/  
 This blog post offers a clear high-level overview of Stack Overflow's A/B testing procedure; includes a Shiny app that illustrates power calculations.
 
 A more customizable sample size calculator, created by Evan Miller, is available here:  
@@ -22,7 +22,7 @@ http://www.evanmiller.org/ab-testing/sample-size.html
 Udacity A/B testing notes:  
 https://towardsdatascience.com/a-summary-of-udacity-a-b-testing-course-9ecc32dedbb1
 
-http://thestatsgeek.com/2013/07/22/ab-testing/
+http://thestatsgeek.com/2013/07/22/ab-testing/  
 Basic introduction about the chi-squared test and how it's used for A/B testing.
 
 *Effective A/B testing*, Ben Tilly  
