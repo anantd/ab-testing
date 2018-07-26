@@ -2,13 +2,15 @@
 
 Notes on A/B testing and online experimentation.
 
+I'd recommend looking at these materials in the order they're presented here. 
+
 ## Papers
 
 [*Controlled experiments on the web, Kohavi et al*](/2009controlledExperimentsOnTheWebSurvey.pdf)
 
 This paper outlines all the key concepts
 
-Julia Silge, Stack Overlflow: 
+Julia Silge, Stack Overlflow:
 https://stackoverflow.blog/2017/10/17/power-calculations-p-values-ab-testing-stack-overflow/
 
 Slides:
